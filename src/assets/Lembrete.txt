@@ -1,0 +1,25 @@
+📌 Lembrete Git/GitHub
+
+Repositório (Repo) → é como uma pasta organizada do seu projeto, onde o Git guarda o histórico de tudo que foi feito. Pode ser local (na sua máquina) ou remoto (no GitHub).
+
+Branch → uma linha do tempo paralela do projeto. Serve para trabalhar em algo novo sem mexer na versão principal (geralmente a branch main).
+
+Commit → um salvamento com rótulo. É como tirar uma foto do estado do código, junto com uma mensagem que explica o que foi mudado.
+
+Merge → é a junção de branches. Pega o que foi feito em uma branch e mistura na outra (ex.: juntar a branch de feature com a main).
+
+Remote → é a conexão com o GitHub (ou outro servidor). Ele liga seu repositório local com o repositório remoto.
+
+Push → envia seus commits do repositório local → para o remoto (GitHub).
+
+Pull → traz as mudanças do repositório remoto → para o local.
+
+⚡ Outros importantes:
+
+Clone → baixar um repositório remoto para a sua máquina.
+
+Fork → criar uma cópia de um repositório de outra pessoa no seu GitHub.
+
+Pull Request (PR) → pedir para juntar sua branch no repositório principal (muito usado em projetos colaborativos).
+
+Stash → guardar alterações temporariamente sem precisar fazer commit.
