@@ -128,7 +128,7 @@ Depois, abra o navegador e acesse o endereço indicado (ex: `http://localhost:51
 
 ---
 
-### Objetivos Do Prpjeto Concretizados
+### Objetivos Do Projeto Concretizados
 
 * Criação de interface interativa com React e Vite (rápido setup, build eficiente).
 * Controle de estado e efeitos com Hooks (`useState`, `useEffect`).
